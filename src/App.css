@@ -1,0 +1,53 @@
+section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: auto;
+}
+
+button{
+    border: transparent;
+    padding: 10px;
+    width: 150px;
+    margin: 10px;
+}
+
+
+
+table{
+    text-align: center;
+    border: 1px solid black;
+    box-shadow: 0 0  20px gray;
+}
+
+.create{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form{
+    height: auto;
+    width: 300px;
+    border: transparent;
+    box-shadow: 0 0  20px gray;
+    text-align: center;
+    padding: 10px;
+}
+
+
+form input{
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+
+}
+
+form input:hover{
+    box-shadow: inset 0 0  20px grey;
+    border-radius: 10px;
+}

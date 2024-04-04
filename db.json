@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "id": "10",
+      "email": "byron.fields@reqres.in",
+      "first_name": "Byron",
+      "last_name": "Fields",
+      "avatar": "https://reqres.in/img/faces/10-image.jpg"
+    },
+    {
+      "id": "12",
+      "email": "rachel.howell@reqres.in",
+      "first_name": "Rachel",
+      "last_name": "Howelll",
+      "avatar": "https://reqres.in/img/faces/12-image.jpg"
+    },
+    {
+      "id": "b8e2",
+      "first_name": "suraj surya P",
+      "email": "suraj@gmail.com"
+    }
+  ]
+}
